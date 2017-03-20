@@ -1,4 +1,4 @@
 target/
 .mymetadata
 .idea/
-
+*.class
